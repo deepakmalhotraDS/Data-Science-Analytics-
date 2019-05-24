@@ -1,4 +1,4 @@
-# Data-Science-Analytics-IITB-upGrad
+# Data-Science-Analytics-IIITB-upGrad
 The repository includes few projects I worked on during my PG Diploma in Data Science. 
 
 I've included the R-script with detailed comments and pdf files for consolidated presentations wherever applicable. The raw data files for these projects have not been uploaded. However, I may share it exclusively with anyone particularly interested in the details of the Project. I've included a brief description of each project below on which I have worked in.
